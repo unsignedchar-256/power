@@ -1,6 +1,8 @@
 # `powermgr`
 The shittiest way ever exist to shut down your Linux machine with ncurses.
 
+> ⚠️ Warning<br>`root` permission is required. Please log in to `root` user or use `sudo` instead.
+
 ## HW/SW Requirements
 1. OS: **Any Linux distribution**
 2. Screen: 80x25 characters with 16 colors
