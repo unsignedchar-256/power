@@ -1,0 +1,5 @@
+# VSCode
+.vscode/tasks.json
+
+# Default build
+a.out
