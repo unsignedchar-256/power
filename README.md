@@ -1,5 +1,5 @@
 # `powermgr`
-Very-simple TUI program to shut down or restart your Linux machine using syscalls (shit)
+The shittiest way ever exist to shut down your Linux machine with ncurses.
 
 ## HW/SW Requirements
 1. OS: **Any Linux distribution**
