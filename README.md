@@ -1,8 +1,9 @@
 # `powermgr`
-The shittiest way ever exist to shut down your Linux machine with ncurses.
+The shittiest way ever exist to shut down your Linux machine with ncurses. It can even restart your Linux at 0.00006942 μs!
 
 # ⚠️ Warning
-`root` permission is required. Please log in to `root` user or use `sudo` instead.
+1. `root` permission is required. Please log in to `root` user or use `sudo` instead.
+2. For environment which has very limited shell (e.g., Linux kernel with `init=/bin/bash`), please copy the appropriate terminal `/usr/share/terminfo/`.
 
 ## HW/SW Requirements
 1. Any Linux distribution
